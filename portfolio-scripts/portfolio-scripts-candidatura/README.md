@@ -1,4 +1,4 @@
-# Portefólio de Scripts para Candidatura – Técnico de Sistemas e Tecnologias de Informação
+# Portefólio de Scripts para  Técnico de Sistemas e Tecnologias de Informação
 
 Este repositório reúne scripts simples e úteis, pensados para demonstrar competências práticas alinhadas com funções de suporte técnico, manutenção de sistemas, troubleshooting, inventário e operações básicas de administração.
 
@@ -23,18 +23,5 @@ Mostrar capacidade de:
 ## Nota importante
 Estes scripts foram pensados para fins de demonstração e aprendizagem. Não substituem ferramentas de gestão empresarial nem administração avançada de infraestruturas.
 
-## Sugestão para GitHub
-Ao publicar, usa uma descrição curta e objetiva, por exemplo:
 
-**Scripts utilitários para suporte técnico, inventário de sistemas e troubleshooting básico em Windows e Linux.**
 
-## Como valorizar isto na candidatura
-Podes referir algo como:
-
-> Desenvolvimento e organização de scripts utilitários para automatização de tarefas básicas de inventário, backup, conectividade e recolha de informação técnica em ambientes Windows e Linux, publicados em repositório GitHub.
-
-## Próximos passos recomendados
-- adicionar capturas de ecrã da execução;
-- incluir exemplos de output em `examples/`;
-- criar um pequeno laboratório com máquinas virtuais e documentar testes;
-- acrescentar um script de criação de utilizadores locais e outro de exportação de logs.
